@@ -204,9 +204,10 @@ Master Index → Category Indexes → File Indexes → Individual Tasks
 
 ### For New Projects
 ```bash
-# 1. Copy three PANDA files
-# 2. Tell AI: "Create a [your project type] using PANDA v3.0"
-# 3. Watch your project build itself
+# 1. Add PANDA files
+# 2. Run `INITIALIZE_PANDA.sh` (optional, but recommended)
+# 3. Tell AI: "Create a [your project type] using PANDA v3.0"
+# 4. Watch your project build itself
 ```
 
 ### For Existing Projects
